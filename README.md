@@ -1,4 +1,4 @@
-### Clémence LOSA
+# Clémence LOSA
 
 ## Étudiante en BUT Informatique | À la recherche d'un contrat d'alternance sur 2 ans
 
