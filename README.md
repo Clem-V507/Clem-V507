@@ -1,6 +1,6 @@
 # Clémence LOSA
 
-### Étudiante en BUT Informatique | À la recherche d'une alternance en développement d'applications (2 ans, 1 semaine / 2)
+### Étudiante en BUT Informatique | À la recherche d'une alternance - Développeuse d'applications (2 ans, 1 semaine / 2)
 
 Je suis étudiante en 1ère année de BUT Informatique (2024-2025), déléguée de classe et membre de l'équipe communication à l'IUT de Créteil-Vitry (Campus de Vitry-sur-Seine) - UPEC (Université Paris-Est Créteil).
 
