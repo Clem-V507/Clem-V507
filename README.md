@@ -1,11 +1,11 @@
-# 💫 About Me<br>
+# 💫 About Me
 
-## Clémence LOSA<br>
+## Clémence LOSA
 
 ### 🎓 Computer Science Student | Passionate about Application Design & Development
 ### 🔍 Seeking an Apprenticeship in Application Development (Sept. 2025 - 2 years - 1 week every 2 weeks)<br><br>
 
-📅 18 years old | 📍 75012 Paris, France | 📞 +33 7 69 67 59 37 | 📧 [Email](mailto:clemence.losa@etu.u-pec.fr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemence-losa-v507/)<br>
+📅 18 years old | 📍 75012 Paris, France | 📞 +33 7 69 67 59 37 | 📧 [clemence.losa@etu.u-pec.fr](mailto:clemence.losa@etu.u-pec.fr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemence-losa-v507/)<br><br>
 
 ---
 
@@ -32,6 +32,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Clem-V507&limit=5&theme=default&combine_all_yearly_contributions=true)<br><br>
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Clem-V507&icon=0&color=0)](https://visitcount.itsvg.in)<br><br>
 
 ## 🛠️ Skills
 
