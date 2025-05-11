@@ -1,16 +1,11 @@
-# 💫 About Me (à propos de moi)<br>
+# 💫 About Me<br>
 
 ## Clémence LOSA<br>
 
-### 🇬🇧
 ### 🎓 Computer Science Student | Passionate about Application Design & Development
 ### 🔍 Seeking an Apprenticeship in Application Development (Sept. 2025 - 2 years - 1 week every 2 weeks)<br><br>
 
-### 🇫🇷
-### 🎓 Étudiante en BUT Informatique | Passionnée par la conception et le développement d'applications
-### 🔍 À la recherche d'une alternance en développement d'applications (Sept. 2025 - 2 ans - 1 semaine sur 2)<br><br>
-
-📅 18 years old (ans) | 📍 75012 Paris, France | 📞 +33 7 69 67 59 37 | 📧 [Email](mailto:clemence.losa@etu.u-pec.fr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemence-losa-v507/)<br><br>
+📅 18 years old | 📍 75012 Paris, France | 📞 +33 7 69 67 59 37 | 📧 [Email](mailto:clemence.losa@etu.u-pec.fr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemence-losa-v507/)<br>
 
 ---
 
@@ -39,50 +34,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Clem-V507&icon=0&color=1)](https://visitcount.itsvg.in)
-
-## 🇫🇷
-
-## 🛠️ Compétences
-
-💻 **Compétences techniques** :  Python, C, Java, JavaScript, LARP, PL/SQL, SQL, HTML, CSS, Flask, Jinja, Pandas, Matplotlib, SQLAlchemy, SQLite, MySQL<br>
-⚙️ **Outils** : VSCode, Git/GitHub, DBeaver, SQL Developer, VirtualBox, MobaXterm, FileZilla, Jira, MindView, Figma, Canva, Microsoft Office, Google Workspace<br>
-🌐 **Systèmes d'exploitations** : Windows (10, 11), Linux (Ubuntu, Debian)<br><br>
-
-🤝 **Compétences transversales** : Curiosité, créativité, logique, rigueur, travail en équipe et gestion de projet Agile (ScrumBan, Kanban, PERT, Gantt)<br>
-🌍 **Langues** : Anglais (B2), Espagnol (B1)<br><br>
-
-## 📂 Projets académiques
-
-- 💊 **Application Web - Analyse des données de Data ameli**<br>
-Création d’une application pour visualiser et analyser des données provenant de l'API Data ameli, avec gestion des fichiers CSV.<br>
-🛠️ **Compétences** : Python (Backend), Flask (Framework web), Pandas, Matplotlib (Analyse de données), Jinja (Templates HTML), SQLite (Base de données), HTML, CSS, JavaScript (Frontend)<br><br>
-
-- ♻️ **Site Web - Analyse RSE de Tesla**<br>
-Conception et réalisation d'un site web pour présenter l'analyse des initiatives RSE de Tesla.<br>
-🛠️ **Compétences** : HTML, CSS, JavaScript (Frontend), Figma (UI/UX design)<br><br>
-
-## 💡 Projets personnels
-
-- 🖼️ **Application Web [MyXpo](https://github.com/Clem-V507/MyXpo) - Gestion d'œuvres d'art**<br>
-Création d'une plateforme web permettant de gérer des œuvres d'art et des expositions, incluant la gestion des utilisateurs, l'affichage dynamique des œuvres et l'interaction entre les utilisateurs.<br>
-🛠️ **Compétences** : Python (Backend), Flask (Framework web), Jinja (Templates HTML), SQLAlchemy (ORM pour base de données), MySQL (Base de données), JavaScript (Frontend), HTML, CSS (Développement full stack), POO (Programmation orientée objet), MVC (Architecture logicielle)<br><br>
-
-## 📚 Formations académiques
-
-- 🏫 **BUT Informatique** - L1 (1ère année)<br>
-IUT de Créteil-Vitry - UPEC (Université Paris-Est Créteil)
-Vitry-sur-Seine<br><br>
-
-- 📜 **Baccalauréat Général - Mention Bien** - 2024<br>
-Spécialités : Mathématiques, Physique-Chimie<br>
-Option : Arts-plastiques
-Lycée <br><br>
-
-## 🎨 Centres d’intérêt
-
-- **Art** contemporain, design, multimédia, jeux vidéo et de société, guitare classique, badminton
-
-## 🇬🇧
 
 ## 🛠️ Skills
 
