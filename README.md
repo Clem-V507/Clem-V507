@@ -33,7 +33,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Clem-V507&icon=0&color=0)](https://visitcount.itsvg.in)<br><br>
+[![](https://visitcount.itsvg.in/api?id=Clem-V507&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🛠️ Skills
 
