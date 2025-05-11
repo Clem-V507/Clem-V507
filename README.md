@@ -1,7 +1,5 @@
 # 💫 About Me<br>
 
----
-
 ## Clémence LOSA<br>
 
 ### 🎓 Computer Science Student | Passionate about Application Design & Development
