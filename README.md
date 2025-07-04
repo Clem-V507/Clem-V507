@@ -2,8 +2,8 @@
 
 ## Clémence LOSA
 
-### 🎓 Computer Science Student | Passionate about Application Design & Development
-### 🔍 Seeking an Apprenticeship in Application Development (Sept. 2025 - 2 years - 1 week every 2 weeks)<br><br>
+### 💼 Apprentice – Service Performance and Quality Data Analyst @ 🟧 Orange France
+### 🎓 Computer Science Student | Passionate about Application Design & Development, as well as Data Analysis<br><br>
 
 📅 18 years old | 📍 75012 Paris, France | 📞 +33 7 69 67 59 37 | 📧 [clemence.losa@etu.u-pec.fr](mailto:clemence.losa@etu.u-pec.fr) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemence-losa-v507/)<br><br>
 
